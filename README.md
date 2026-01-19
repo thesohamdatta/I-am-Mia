@@ -89,10 +89,10 @@ enter  { python .\agent.py dev } in terminal and connct to Livekit on web
 <img width="1919" height="932" alt="Screenshot 2026-01-20 002720" src="https://github.com/user-attachments/assets/72ccc9b7-1fd8-4225-ada7-b19100c55601" />
 
 
-you can also use it in teh android application readme coming soon
+You can also use it in the android application detiailes coming soon
 ---
 <p align="center">
-  Built with ❤️ using <a href="https://livekit.io">LiveKit</a> and <a href="https://ai.google.dev">Google Gemini</a>
+  Built with ❤️ using <a href="https://livekit.io">LiveKit</a> and <a href="https://ai.google.dev">Google Gemini</a> 
 </p>
 
-
+By The Soham Datta
