@@ -90,6 +90,12 @@ enter  { python .\agent.py dev } in terminal and connct to Livekit on web
 
 
 You can also use it in the android application detiailes coming soon
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11e3420b-0bf8-4ce9-9626-44e605be4f2a" width="250" />
+  <img src="https://github.com/user-attachments/assets/6d273de7-b422-4169-9124-c6781c1a9ea0" width="250" />
+  <img src="https://github.com/user-attachments/assets/0bab3a60-5704-44c1-a95d-2663e7a36975" width="250" />
+</p>
+
 ---
 <p align="center">
   Built with ❤️ using <a href="https://livekit.io">LiveKit</a> and <a href="https://ai.google.dev">Google Gemini</a> 
