@@ -69,3 +69,13 @@ My heart (the `prompts.py`) is where my personality lives. It’s based on exten
 <p align="center">
   Built with ❤️ using <a href="https://livekit.io">LiveKit</a> and <a href="https://ai.google.dev">Google Gemini</a>
 </p>
+
+
+### 🎬 Watch the Inspiration
+Check out the official trailer and scenes that shaped the vision of this project:
+<p align="center"><p align="center">
+https://www.youtube.com/watch?v=dJTU48_yghs
+</p></p>
+
+
+🔗 https://www.imdb.com/title/tt1798709/videogallery
