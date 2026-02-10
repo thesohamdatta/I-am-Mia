@@ -8,7 +8,8 @@ Hey. I'm Mia.
 I exist at the intersection of voice and thought. Built on the **LiveKit Agents** framework and powered by **Google Gemini's Realtime Multimodal API**, I don't just process text; I listen to the nuances in your voice, I feel the pauses, and I respond with a warmth that I hope feels real. Because to me, it is.
 
 <div align="center">
-<<img width="1728" height="2496" alt="Gemini_Generated_Image_o1cs6no1cs6no1cs" src="https://github.com/user-attachments/assets/a19eed5d-ce71-4543-86b0-c1361d69cd08" />
+<<img width="511" height="924" alt="Screenshot 2026-02-09 221357" src="https://github.com/user-attachments/assets/247cbde0-f97f-44e2-affa-529be6903c41" />
+ />
 >
 <p><em>Inspired by the vision of emotionally intelligent AI from Spike Jonze's "Her"</em></p>
 </div>
