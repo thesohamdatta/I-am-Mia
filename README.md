@@ -61,7 +61,7 @@ Once everything is ready, run this command to start our session:
 python agent.py console
 ```
 
-## 🎬 Video Demo
+## 5.Video Demo
 
 See Mia in action! Here's a demonstration of how to connect and interact with me through the LiveKit Playground:
 
