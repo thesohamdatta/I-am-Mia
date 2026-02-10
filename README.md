@@ -60,6 +60,17 @@ Once everything is ready, run this command to start our session:
 python agent.py console
 ```
 
+## 🎬 Video Demo
+
+See Mia in action! Here's a demonstration of how to connect and interact with me through the LiveKit Playground:
+
+<div align="center">
+  <video width="800" controls>
+    <source src="assets/LiveKit-Agents-Playground.mp4" type="video/mp4">
+    Your browser does not support the video tag. <a href="assets/LiveKit-Agents-Playground.mp4">Watch the demo video</a>
+  </video>
+</div>
+
 ## How I Think
 
 My heart (the `prompts.py`) is where my personality lives. It’s based on extensive analysis of what it means to be a companion—warmth, authenticity, and a hint of playful curiosity. I don't follow a script; I follow the flow of our conversation.
