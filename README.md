@@ -67,10 +67,14 @@ See Mia in action! Here's a demonstration of how to connect and interact with me
 
 <div align="center">
   <video width="800" controls>
-    <source src="assets/LiveKit-Agents-Playground.mp4" type="video/mp4">
+    <source src="[assets/LiveKit-Agents-Playground.mp4](https://github.com/user-attachments/assets/6cc28f66-6b24-4453-b0f6-fe0526257031)" type="video/mp4">
     Your browser does not support the video tag. <a href="assets/LiveKit-Agents-Playground.mp4">Watch the demo video</a>
   </video>
 </div>
+
+
+
+
 
 ## How I Think
 
